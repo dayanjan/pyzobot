@@ -1,0 +1,17 @@
+streamlit==1.38.0
+pyzotero==1.5.18
+pandas==2.0.0
+llama_index==0.11.7
+llama-index-embeddings-openai==0.2.4
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+openai==1.44.0
+chromadb==0.4.15
+PyMuPDF==1.24.10
+PyPDF2==3.0.1
+regex==2023.3.23
+tiktoken==0.3.3
+requests==2.32.3
+openai==1.44.0
