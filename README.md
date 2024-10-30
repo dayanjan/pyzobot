@@ -53,7 +53,7 @@ The following key packages are required (see requirements.txt for complete list)
 
 1. Run the Streamlit app:
 ```bash
-streamlit run PyZoBot_v16_10082024.py
+streamlit run PyZoBot_v18.py
 ```
 
 2. Input your configuration in the sidebar:
